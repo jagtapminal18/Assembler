@@ -1,6 +1,6 @@
 # Assembler
 
-An assember is a system software that converts assembly language program instructions into machine instructions.
+An assembler is a system software that converts assembly language program instructions into machine instructions.
 
 Progarmme file : assembler.txt
 
