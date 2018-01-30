@@ -16,8 +16,12 @@ Other files :
   1) First execute assembler.py : python3 assembler.py
 	
   2) main.py : to exicute programme the command is "python3 asm_file_name [option]
-	 	  option to see the output of symbol table "-s"
+	 	  
+		  option to see the output of symbol table "-s"
+		  
 		  option to see the output of literal table "-l"
+		  
 		  option to see the output of lst file "-lst"
+		  
 		  option to see the ouput of the intermediate code "-lst"
  
