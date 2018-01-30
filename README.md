@@ -9,7 +9,7 @@ Other files :
    2)register.txt
 
 
-# Steps of exicution of Assembler:
+# Steps of execution of Assembler program:
 
 1) On terminal run the main.py file.
 	
